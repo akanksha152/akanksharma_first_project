@@ -1,0 +1,138 @@
+header{
+	position: fixed;
+    width:100%;
+	overflow: hidden;
+	background-color: black;
+	margin-left: 0px;
+	margin-right: 0px;
+	height:150px;
+}
+.head a{
+	text-decoration: none;
+
+	color: white;
+}
+nav{
+	
+	overflow: hidden;
+	 margin-top: 80px;
+	 
+	margin-left: 10px;
+   float:right;
+
+}
+.upper{
+	display:inline;
+	margin-right:50px; 
+	font-size: 30px;
+	text-decoration: none;
+	overflow: hidden;
+
+}
+
+
+.head h1{
+	float:left;
+	margin-right: 50px;
+	color:white;
+	font-style: italic;
+	margin-left: 10px;
+	font-size: 50px;
+	margin-bottom: 0px;
+	margin-top: 10px;
+
+}	
+img {
+	float:left;
+	margin-right: 0px;
+}
+.first{
+	margin-top:145px;
+	margin-bottom: 20px;
+	
+}
+.grid_4{
+	margin-top: 10px;
+}
+.first_assignment{
+	background-color: grey;
+	margin:0px;
+}
+.container_12 a{
+	margin-bottom: 0px;
+	color: black;
+}
+.container_12 h3{
+	 margin-bottom: 0px;
+}
+.container_12 p{
+	margin-top: 0px;
+}
+
+.hero{
+	background-color: white;
+	margin-right: 0px;
+	margin-left: 0px;
+	overflow: hidden;
+}
+.container_12 img{
+	display:block;
+}
+#list{
+	margin-left: 0px;
+	margin-right: 0px; 
+	font-size:30px;
+	text-decoration: none;
+
+}
+.hero a{
+	text-decoration: none;
+
+}
+footer{
+	background-color: black;
+	height:100px;
+	margin:0px;
+	overflow: hidden;
+	margin-top: 0px;
+	
+}
+
+.foot {
+	
+	margin-left: 200px;
+	margin-right: 50px;
+	display: inline;
+}
+footer .facebook{
+	margin-left: 500px;
+	margin-right: 50px;
+	margin-top: 30px;
+	float: left;
+	color:red;
+}
+ .google, .twitter{
+margin-left: 100px;
+	margin-right: 50px;
+	float: left;
+	
+	margin-top: 30px;
+
+}
+
+.lim{
+	margin-top: 90px;
+	float:right;
+}
+.lb {
+  background-color: yellow;
+ margin-bottom: 0px;
+  
+}
+.lb h1{
+	margin-left: 450px;
+	margin-bottom: 0px;
+}
+.lb a{
+	margin-bottom: 0px;
+}

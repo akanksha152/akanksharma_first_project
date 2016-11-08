@@ -1,0 +1,13 @@
+.grid_12{
+ display: block;
+ font-size:150%;
+ 
+ margin-left: 300px;
+}
+h3 a{
+	text-decoration: none;
+	color:black;
+}
+a:hover{
+	color:red;
+}
